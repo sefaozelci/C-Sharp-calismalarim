@@ -13,10 +13,13 @@ namespace C__Arttırma_ve_azaltma_operatörleri
         static void Main(string[] args)
         {
             //arttırma operatörleri ++
-            // azaltma operatörleri --
             int sayilar = 20;
             sayilar++;
+            // azaltma operatörleri --
+            int sayilar1 = 20;
+            sayilar1 --;
 
+            Console.WriteLine(sayilar1);
             Console.WriteLine(sayilar);
             Console.ReadLine();
 
