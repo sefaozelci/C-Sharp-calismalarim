@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eşittir Operatörü", "Eş
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eşit değildir operatörü", "Eşit değildir operatörü\Eşit değildir operatörü.csproj", "{4448AE28-A3FA-4C88-B2AE-AD488FA97604}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "büyüktür ve büyük eşit operatörü", "büyüktür ve büyük eşit operatörü\büyüktür ve büyük eşit operatörü.csproj", "{79FAE3EE-2F46-4C27-9E8A-8F952F1F143A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4448AE28-A3FA-4C88-B2AE-AD488FA97604}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4448AE28-A3FA-4C88-B2AE-AD488FA97604}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4448AE28-A3FA-4C88-B2AE-AD488FA97604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79FAE3EE-2F46-4C27-9E8A-8F952F1F143A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FAE3EE-2F46-4C27-9E8A-8F952F1F143A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FAE3EE-2F46-4C27-9E8A-8F952F1F143A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FAE3EE-2F46-4C27-9E8A-8F952F1F143A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
