@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tür dönüşümleri", "Tü
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karar Yapıları IF- Else Kontrol Yapıları", "Karar Yapıları IF- Else Kontrol Yapıları\Karar Yapıları IF- Else Kontrol Yapıları.csproj", "{CAAF2AA3-AF4D-4A63-A435-D0EBFBE81052}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kontrol yapıları örnek soru", "kontrol yapıları örnek soru\kontrol yapıları örnek soru.csproj", "{259AC7E2-1DC2-48C6-97B6-9FA2E89FB2AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{CAAF2AA3-AF4D-4A63-A435-D0EBFBE81052}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAAF2AA3-AF4D-4A63-A435-D0EBFBE81052}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAAF2AA3-AF4D-4A63-A435-D0EBFBE81052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{259AC7E2-1DC2-48C6-97B6-9FA2E89FB2AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259AC7E2-1DC2-48C6-97B6-9FA2E89FB2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259AC7E2-1DC2-48C6-97B6-9FA2E89FB2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259AC7E2-1DC2-48C6-97B6-9FA2E89FB2AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

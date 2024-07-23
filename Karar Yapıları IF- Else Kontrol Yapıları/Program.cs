@@ -33,6 +33,7 @@ namespace Karar_Yapıları_IF__Else_Kontrol_Yapıları
                 Console.WriteLine("yanlış giriş");
             }
             Console.ReadLine();
+
                     
             
 
