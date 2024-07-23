@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kullanıcıdan değer alma"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tür dönüşümleri", "Tür dönüşümleri\Tür dönüşümleri.csproj", "{584074DD-BDAF-40BB-BAE9-E81F90019546}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karar Yapıları IF- Else Kontrol Yapıları", "Karar Yapıları IF- Else Kontrol Yapıları\Karar Yapıları IF- Else Kontrol Yapıları.csproj", "{CAAF2AA3-AF4D-4A63-A435-D0EBFBE81052}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{584074DD-BDAF-40BB-BAE9-E81F90019546}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{584074DD-BDAF-40BB-BAE9-E81F90019546}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{584074DD-BDAF-40BB-BAE9-E81F90019546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAAF2AA3-AF4D-4A63-A435-D0EBFBE81052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAF2AA3-AF4D-4A63-A435-D0EBFBE81052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAF2AA3-AF4D-4A63-A435-D0EBFBE81052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAF2AA3-AF4D-4A63-A435-D0EBFBE81052}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
