@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VE operatörü", "VE operat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veya Operatörü", "Veya Operatörü\Veya Operatörü.csproj", "{1DE7D914-9374-4368-A225-090A7F1251CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "değil operatörü", "değil operatörü\değil operatörü.csproj", "{BAD8EC28-8C78-4110-9CF1-87FAE0484D8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1DE7D914-9374-4368-A225-090A7F1251CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DE7D914-9374-4368-A225-090A7F1251CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DE7D914-9374-4368-A225-090A7F1251CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD8EC28-8C78-4110-9CF1-87FAE0484D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD8EC28-8C78-4110-9CF1-87FAE0484D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD8EC28-8C78-4110-9CF1-87FAE0484D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD8EC28-8C78-4110-9CF1-87FAE0484D8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
