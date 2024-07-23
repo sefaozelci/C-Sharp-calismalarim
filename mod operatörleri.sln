@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beden Kitle indeksi örnek"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for döngüsü", "for döngüsü\for döngüsü.csproj", "{6CE3D9CC-7BF9-414D-9CEA-BC7C39A979F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iç içe for döngüsü", "iç içe for döngüsü\iç içe for döngüsü.csproj", "{DDF25E0F-D224-4360-A809-50D4D5A65867}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{6CE3D9CC-7BF9-414D-9CEA-BC7C39A979F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CE3D9CC-7BF9-414D-9CEA-BC7C39A979F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CE3D9CC-7BF9-414D-9CEA-BC7C39A979F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF25E0F-D224-4360-A809-50D4D5A65867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF25E0F-D224-4360-A809-50D4D5A65867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF25E0F-D224-4360-A809-50D4D5A65867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF25E0F-D224-4360-A809-50D4D5A65867}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
