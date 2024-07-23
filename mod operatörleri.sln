@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iç içe for döngüsü", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while döngüsü", "while döngüsü\while döngüsü.csproj", "{D2D72BDF-42C8-4BDD-A080-A101FDB4797A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do while döngüsü", "do while döngüsü\do while döngüsü.csproj", "{FC709E57-3A87-4ACF-A0AC-B9CF9ADC2492}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{D2D72BDF-42C8-4BDD-A080-A101FDB4797A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2D72BDF-42C8-4BDD-A080-A101FDB4797A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2D72BDF-42C8-4BDD-A080-A101FDB4797A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC709E57-3A87-4ACF-A0AC-B9CF9ADC2492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC709E57-3A87-4ACF-A0AC-B9CF9ADC2492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC709E57-3A87-4ACF-A0AC-B9CF9ADC2492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC709E57-3A87-4ACF-A0AC-B9CF9ADC2492}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
