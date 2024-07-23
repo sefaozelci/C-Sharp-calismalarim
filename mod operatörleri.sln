@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karar Yapıları IF- Else K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kontrol yapıları örnek soru", "kontrol yapıları örnek soru\kontrol yapıları örnek soru.csproj", "{259AC7E2-1DC2-48C6-97B6-9FA2E89FB2AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mini atm uygulaması", "mini atm uygulaması\mini atm uygulaması.csproj", "{DE970AFF-7283-488D-BC7B-AC90491050C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{259AC7E2-1DC2-48C6-97B6-9FA2E89FB2AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{259AC7E2-1DC2-48C6-97B6-9FA2E89FB2AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{259AC7E2-1DC2-48C6-97B6-9FA2E89FB2AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE970AFF-7283-488D-BC7B-AC90491050C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE970AFF-7283-488D-BC7B-AC90491050C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE970AFF-7283-488D-BC7B-AC90491050C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE970AFF-7283-488D-BC7B-AC90491050C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
