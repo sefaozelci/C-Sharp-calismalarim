@@ -11,7 +11,7 @@ namespace metot_oluşturma
         static void Main(string[] args)
         {
             //parametre almayan geriye değer döndürmeyen metot Tanımlama
-            selamver();
+            selamver() ;
 
 
 
