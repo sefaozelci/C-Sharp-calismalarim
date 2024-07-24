@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach döngüsü", "forea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diziler örnek1", "diziler örnek1\diziler örnek1.csproj", "{59E2A7C3-7619-46E0-9ED2-9BEC33BF7FAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "örnek1", "örnek1\örnek1.csproj", "{E02EDF63-3432-4EB0-BB91-3874A71159B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metot oluşturma", "metot oluşturma\metot oluşturma.csproj", "{0BE4E37C-32CD-4B6D-A423-49DA90F748B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,14 @@ Global
 		{59E2A7C3-7619-46E0-9ED2-9BEC33BF7FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59E2A7C3-7619-46E0-9ED2-9BEC33BF7FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59E2A7C3-7619-46E0-9ED2-9BEC33BF7FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E02EDF63-3432-4EB0-BB91-3874A71159B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02EDF63-3432-4EB0-BB91-3874A71159B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02EDF63-3432-4EB0-BB91-3874A71159B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02EDF63-3432-4EB0-BB91-3874A71159B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE4E37C-32CD-4B6D-A423-49DA90F748B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE4E37C-32CD-4B6D-A423-49DA90F748B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE4E37C-32CD-4B6D-A423-49DA90F748B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE4E37C-32CD-4B6D-A423-49DA90F748B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
