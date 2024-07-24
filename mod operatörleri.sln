@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giriş Uygulaması", "Giri�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diziler", "diziler\diziler.csproj", "{08B1C0A8-46CB-40C2-A876-37075B013A3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dizinin elemanlarını kullanıcıdan al", "dizinin elemanlarını kullanıcıdan al\dizinin elemanlarını kullanıcıdan al.csproj", "{58986560-E00F-43EA-92BE-7E3CDDCBEF05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{08B1C0A8-46CB-40C2-A876-37075B013A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08B1C0A8-46CB-40C2-A876-37075B013A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08B1C0A8-46CB-40C2-A876-37075B013A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58986560-E00F-43EA-92BE-7E3CDDCBEF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58986560-E00F-43EA-92BE-7E3CDDCBEF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58986560-E00F-43EA-92BE-7E3CDDCBEF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58986560-E00F-43EA-92BE-7E3CDDCBEF05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
