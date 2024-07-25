@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metot oluşturma", "metot o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parametreli metot oluşturma", "Parametreli metot oluşturma\Parametreli metot oluşturma.csproj", "{27781938-9D19-4C6C-846E-18C7E659E223}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dönüş ile değer döndürme", "dönüş ile değer döndürme\dönüş ile değer döndürme.csproj", "{4C55CE4A-5F70-4820-BE4F-3EC4899D3952}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{27781938-9D19-4C6C-846E-18C7E659E223}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27781938-9D19-4C6C-846E-18C7E659E223}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27781938-9D19-4C6C-846E-18C7E659E223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C55CE4A-5F70-4820-BE4F-3EC4899D3952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C55CE4A-5F70-4820-BE4F-3EC4899D3952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C55CE4A-5F70-4820-BE4F-3EC4899D3952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C55CE4A-5F70-4820-BE4F-3EC4899D3952}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
