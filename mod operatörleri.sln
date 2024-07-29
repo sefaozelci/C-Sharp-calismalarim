@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metot örnek", "metot örne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "input olarak alınan sayi tek mi cift mi", "input olarak alınan sayi tek mi cift mi\input olarak alınan sayi tek mi cift mi.csproj", "{F19407AA-87C2-465E-8D25-48DFD5F6E833}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sınıf oluşturma", "Sınıf oluşturma\Sınıf oluşturma.csproj", "{EC4CBE85-78F8-43D6-A60C-CDC21B47C45A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{F19407AA-87C2-465E-8D25-48DFD5F6E833}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F19407AA-87C2-465E-8D25-48DFD5F6E833}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F19407AA-87C2-465E-8D25-48DFD5F6E833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4CBE85-78F8-43D6-A60C-CDC21B47C45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4CBE85-78F8-43D6-A60C-CDC21B47C45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4CBE85-78F8-43D6-A60C-CDC21B47C45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4CBE85-78F8-43D6-A60C-CDC21B47C45A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
